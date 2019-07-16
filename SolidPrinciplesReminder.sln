@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesReminder", "SolidPrinciplesReminder\SolidPrinciplesReminder.csproj", "{00F89D7F-5A70-40D7-9A42-920D83CA9079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesReminderPrinter", "SolidPrinciplesReminderPrinter\SolidPrinciplesReminderPrinter.csproj", "{7E67ACB3-D563-4E2C-8E07-7A5C30D6E359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F89D7F-5A70-40D7-9A42-920D83CA9079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F89D7F-5A70-40D7-9A42-920D83CA9079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F89D7F-5A70-40D7-9A42-920D83CA9079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F89D7F-5A70-40D7-9A42-920D83CA9079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E67ACB3-D563-4E2C-8E07-7A5C30D6E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E67ACB3-D563-4E2C-8E07-7A5C30D6E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E67ACB3-D563-4E2C-8E07-7A5C30D6E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E67ACB3-D563-4E2C-8E07-7A5C30D6E359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF58E99-62BB-4716-9202-ECA55326E482}
+	EndGlobalSection
+EndGlobal
